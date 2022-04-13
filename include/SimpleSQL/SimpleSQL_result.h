@@ -1,0 +1,9 @@
+
+
+namespace SimpleSQL {
+
+    class Result {
+
+    }
+
+}
